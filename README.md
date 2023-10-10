@@ -1,6 +1,5 @@
 # Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The provided Solidity smart contract, named "BuyMeACoffee," allows users to send Ether as tips along with a message to the contract owner (Dennis) and stores these tips in the contract. The contract owner can later withdraw the ether.
 
 Try running some of the following tasks:
 
