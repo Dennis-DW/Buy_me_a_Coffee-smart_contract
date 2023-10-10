@@ -4,6 +4,7 @@ The provided Solidity smart contract, named "BuyMeACoffee," allows users to send
 Try running some of the following tasks:
 
 ```shell
+npm install
 npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
